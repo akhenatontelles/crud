@@ -1,0 +1,25 @@
+[09-May-2022 21:52:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/agebsb/public_html/deletar/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/agebsb/public_html/deletar/index.php on line 39
+[09-May-2022 21:53:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/agebsb/public_html/deletar/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/agebsb/public_html/deletar/index.php on line 39
+[09-May-2022 21:54:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/agebsb/public_html/deletar/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/agebsb/public_html/deletar/index.php on line 39
+[09-May-2022 21:54:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/agebsb/public_html/deletar/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/agebsb/public_html/deletar/index.php on line 39
+[09-May-2022 21:54:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home4/agebsb/public_html/deletar/index.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/agebsb/public_html/deletar/index.php on line 39
+[09-May-2022 21:55:06 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'agebsb_cad.vagas' doesn't exist in /home4/agebsb/public_html/deletar/index.php:40
+Stack trace:
+#0 /home4/agebsb/public_html/deletar/index.php(40): PDOStatement->execute()
+#1 {main}
+  thrown in /home4/agebsb/public_html/deletar/index.php on line 40
